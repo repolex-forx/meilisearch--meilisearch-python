@@ -1,0 +1,11 @@
+{
+  "org": "meilisearch",
+  "repo": "meilisearch-python",
+  "versions": [
+    {
+      "commit": "b6d80209a2c7c6d7d5d5d80e71ca13951c4f78e1",
+      "tag": "",
+      "parsed_at": "2026-10-17T22:02:10.867816+00:00"
+    }
+  ]
+}
