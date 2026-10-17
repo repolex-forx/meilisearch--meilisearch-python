@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/meilisearch/meilisearch-python/commit/b6d80209a2c7c6d7d5d5d80e71ca13951c4f78e1",
       "git:hexsha": "b6d80209a2c7c6d7d5d5d80e71ca13951c4f78e1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/meilisearch/meilisearch-python/commit/2df80634beb9407d203bdcb4f669e32143d0d3cd",
